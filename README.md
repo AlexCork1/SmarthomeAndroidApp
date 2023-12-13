@@ -15,7 +15,7 @@ Application uses HiveMQ MQTT broker by default, but this can be changed in appli
 <img src="https://github.com/AlexCork1/SmarthomeAndroidApp/blob/main/SmartHomeImage.jpg" alt="SmartHome" width="400"/>
 
 ## License
-This project is licensed under the [MIT] - see the LICENSE.md file for details.
+This project is licensed under the [MIT].
 
 ## Acknowledgments
 MQTT library used: [AI2 MQTT)https://ullisroboterseite.de/android-AI2-PahoMQTT.html<br/>
